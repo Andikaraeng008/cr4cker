@@ -7,14 +7,14 @@ Cloning grub dn total followers auto banjir akun fb xixixi
   🇮🇩TRICKER INDONESIA🇮🇩
 </h4>
 <p align="center">
-<a href="#"><img title="Author by Yayan" src="https://img.shields.io/badge/Coded%20By-YayanXD-green?"></a>
-<a href="#"><img title="Author by YayanXD" src="https://img.shields.io/badge/Code%20-python2.7-blue?"></a>
+<a href="#"><img title="Author by Andi Karaeng" src="https://img.shields.io/badge/Coded%20By-Andi Karaeng-green?"></a>
+<a href="#"><img title="Author by Andi Karaeng" src="https://img.shields.io/badge/Code%20-python2.7-blue?"></a>
 <br>
-<a href="https://github.com/Yayan-XD/followers">
+<a href="https://github.com/Andikaraeng008/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/Yayan-XD?label=Followers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Yayan-XD/termux-style/stargazers/">
-  <a href="https://github.com/Yayan-XD/Craker">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Yayan-XD/Craker.svg"/>
+<a href="https://github.com/Andikaraeng008/termux-style/stargazers/">
+  <a href="https://github.com/Andikaraeng008/Craker">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Andikaraeng008/Craker.svg"/>
   </a>
   <a href="https://github.com/Yayan-XD/Craker">
     <img alt="Language" src="https://img.shields.io/github/languages/count/Yayan-XD/Craker.svg"/>
@@ -25,18 +25,18 @@ Cloning grub dn total followers auto banjir akun fb xixixi
   <a href="https://github.com/Yayan-XD/Craker">
     <img alt="Search" src="https://img.shields.io/github/search/Yayan-XD/Craker/Craker.svg"/>
   </a>
-  <a href="https://github.com/Yayan-XD/Craker">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Yayan-XD/Craker.svg"/>
+  <a href="https://github.com/Andikaraeng008/Craker">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Andi Karaeng/Craker.svg"/>
   </a>
-  <a href="https://github.com/Yayan-XD/Craker">
-    <img alt="Starts" src="https://img.shields.io/github/stars/Yayan-XD/Craker.svg"/>
+  <a href="https://github.com/Andikaraeng008/Craker">
+    <img alt="Starts" src="https://img.shields.io/github/stars/Andi Karaeng/Craker.svg"/>
   </a>
-  <a href="https://github.com/Yayan-XD/Craker">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Yayan-XD/Craker.svg"/>
+  <a href="https://github.com/Andikaraeng008/Craker">
+    <img alt="Forks" src="https://img.shields.io/github/forks/Andi Karaeng/Craker.svg"/>
   </a>
 </div>
 <p align="center">
-<img src="https://github.com/Yayan-XD/Craker/blob/master/Screenshot_20200928_072224-picsay.png" />
+<img src="https://github.com/Andikaraeng008/Craker/blob/master/Screenshot_20200928_072224-picsay.png" />
 ### Fitures
 ```
 - Crack Dari  ID Grub  
@@ -54,7 +54,7 @@ Cloning grub dn total followers auto banjir akun fb xixixi
 pkg update && pkg upgrade
 pkg install python2
 pkg install git
-git clone https://github.com/Yayan-XD/Craker
+git clone https://github.com/Andikaraeng008/Craker
 ```
 ### And Craker this script
 ```
@@ -64,9 +64,9 @@ pip2 install mechanize
 python2 Craker.py
 ```
 ## MY SOCIAL MEDIA
-[![Github](https://img.shields.io/badge/Github-Ikuti-green?style=for-the-badge&logo=github)](https://github.com/Yayan-XD)
+[![Github](https://img.shields.io/badge/Github-Ikuti-green?style=for-the-badge&logo=github)](https://github.com/Andikaraeng008)
 [![Twitter](https://img.shields.io/badge/twitter-Ikuti-green?style=for-the-badge&logo=Twitter)](https://mobile.twitter.com/moch_xd)
-[![Facebook](https://img.shields.io/badge/Facebook-Ikuti-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/YAYAN.XING.ZUCKERBERG.SR)
+[![Facebook](https://img.shields.io/badge/Facebook-Ikuti-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/Andikaraeng008)
 [![Instagram](https://img.shields.io/badge/Instagram-Ikuti-green?style=for-the-badge&logo=instagram)](https://Instagram.com/yayanxd_)
 * Jika ada yang kurang paham hubungi WhatsApp👇
 [![WhatsApp](https://img.shields.io/badge/whatsapp-Hubungi-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/brightgreen?phone=+6285603036683)
